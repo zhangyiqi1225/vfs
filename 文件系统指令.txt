@@ -1,0 +1,33 @@
+// 格式化
+format
+
+// 新建目录
+mkdir [dirName]  //dirName为目录名字
+
+// 删除目录
+rm [dirName]     
+
+// 移动路径
+cd [choice] //1位上一级 2为下一级
+
+// 列出所有文件
+ls
+
+// 新建文件 
+touch [fileName]
+
+
+// 复制文件
+cp [srcFile] 
+
+// 粘贴文件
+pas [objFile] 
+
+// 注册
+reg 
+
+// 退出
+exit
+
+// 帮助
+help
